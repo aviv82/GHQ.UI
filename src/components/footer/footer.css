@@ -5,4 +5,8 @@
   justify-content: center;
   align-items: center;
   border-top: pink 2px solid;
+  position: fixed;
+  right: 0;
+  left: 0;
+  bottom: 0;
 }
