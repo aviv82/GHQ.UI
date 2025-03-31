@@ -28,6 +28,11 @@
   list-style: none;
 }
 
+.nav-bar-link {
+  text-decoration: none;
+  color: black;
+}
+
 .nav-bar-user {
   flex: 0.14;
 }
