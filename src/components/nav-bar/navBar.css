@@ -5,6 +5,12 @@
   align-items: center;
   justify-content: space-between;
   border-bottom: 2px pink solid;
+  background-color: whitesmoke;
+  opacity: 0.96;
+  position: fixed;
+  left: 0;
+  right: 0;
+  top: 0;
 }
 
 .nav-bar-header {

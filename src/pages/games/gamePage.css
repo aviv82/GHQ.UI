@@ -1,0 +1,16 @@
+.game-page {
+  margin: 80px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.game-page-th {
+  padding: 10px 20px;
+  border-bottom: 1px solid black;
+}
+
+.game-page-td {
+  padding: 10px 20px;
+  border-bottom: 1px solid rgb(183, 182, 182);
+}
